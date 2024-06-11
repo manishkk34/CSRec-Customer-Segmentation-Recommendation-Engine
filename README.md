@@ -24,9 +24,7 @@ Step 2.1 | Dataset Overview
 Step 2.2 | Summary Statistics
 ![image](https://github.com/manishkk34/CSRec-Customer-Segmentation-Recommendation-Engine/assets/122711968/87ecfd7f-fc4d-4bbc-9e97-83222fd10606)
 
-
 Step 3 | Data Cleaning & Transformation
-
 Step 3.1 | Handling Missing Values
 ![image](https://github.com/manishkk34/CSRec-Customer-Segmentation-Recommendation-Engine/assets/122711968/224559a0-d36b-44f4-af84-de5c4e9eabb7)
 
@@ -42,7 +40,6 @@ Step 3.8 | Filter year > 2019
 Step 3.9 | Question 2
 Step 3.10 | Question 3
 Step 4 | Feature Engineering
-
 Step 4.1 | RFM Features
 Step 4.1.1 | Recency (R)
 Step 4.1.2 | Frequency (F)
@@ -53,26 +50,18 @@ Step 4.4 | Geographic Features
 Step 4.5 | Cancellation Insights
 Step 4.6 | Seasonality & Trends
 Step 5 | Outlier Detection and Treatment
-
 Step 6 | Correlation Analysis
-
 Step 7 | Feature Scaling
-
 Step 8 | Dimensionality Reduction
-
 Step 9 | K-Means Clustering
-
 Step 9.1 | Determining the Optimal Number of Clusters
 Step 9.1.1 | Elbow Method
 Step 9.1.2 | Silhouette Method
 Step 9.2 | Clustering Model - K-means
 Step 10 | Clustering Evaluation
-
 Step 10.1 | 3D Visualization of Top Principal Components
 Step 10.2 | Cluster Distribution Visualization
 Step 10.3 | Evaluation Metrics
 Step 11 | Cluster Analysis and Profiling
-
-Step 11.1 | Radar Chart Approach
 Step 11.2 | Histogram Chart Approach
 Step 12 | Recommendation System
